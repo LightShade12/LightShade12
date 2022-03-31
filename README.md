@@ -1,6 +1,6 @@
 Hi, I’m @LightShade12 👋
 I’m interested in rendering and real time raytracing.
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python and c++ (Very beginner level)
 
 <!---
 LightShade12/LightShade12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
