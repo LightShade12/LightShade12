@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LightShade12/LighShade12/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LightShade12/LightShade12/fa5739c11e3cbbfded269e0d9b4e925d9ed0d951/snake.svg" alt="Snake animation" />
 
 ###
