@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Subham and I'm a student at ITER, SOA university, Bhubaneswar</h2>
+<h2 align="left">Hi 👋! My name is <em>Subham</em> and I'm a student at ITER, SOA university, Bhubaneswar</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/162/162556.gif"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/162/162556.gif" alt="steins gate" />
 
 ###
 <h4 align="left">Languages and Tools:</h4>
@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
+  <img width="12" /><br>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
