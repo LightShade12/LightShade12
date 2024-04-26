@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <em>Subham</em> and I'm a student at ITER, SOA university, Bhubaneswar</h2>
+<h2 align="left">Hi, I'm <em>Subham</em> and I'm a student at ITER, SOA university, Bhubaneswar</h2>
 
 ###
 
