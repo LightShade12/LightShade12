@@ -1,6 +1,8 @@
-<h2 align="left">Hi, I'm <em>Subham</em> and I'm a student at ITER, SOA university, Bhubaneswar</h2>
+<center><h1>Hi.</h1></center>
+<h3>I'm <ins>Subham</ins></h3>
+<h3>A student at ITER, SOA university, Bhubaneswar</h3>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LightShade12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -28,15 +30,29 @@
 ###
 
 <div align="left">
+
+  
   <a href="https://www.instagram.com/mackerel204/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  
+      
+  
   <a href="https://discordapp.com/users/_karcer" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  
+
+  
   <a href="https://www.linkedin.com/in/subham-swastik-pradhan-376a7a2a1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  
   <a href="https://www.hackerrank.com/profile/subhamswostikpr1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00EA64&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=subhamswastikpradhan2005@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    
+
 </div>
 
 ###
