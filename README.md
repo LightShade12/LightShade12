@@ -50,36 +50,17 @@
 
 <div align="left" style="border:3px solid grey; padding:20px; border-radius:10px">
 <h3><i>Contacts...</i></h3>
-
-  
-  <a href="https://www.instagram.com/mackerel204/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  
       
   
   <a href="https://discordapp.com/users/_karcer" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
-
-  
   <a href="https://www.linkedin.com/in/subham-swastik-pradhan-376a7a2a1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/subhamswostikpr1" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00EA64&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 
   <img src="https://img.shields.io/static/v1?message=subhamswastikpradhan2005@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
     
 
-</div>
-
-###
-<h3 style="margin-left:20px">Commit Overview Thingy:</h3>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/LightShade12/LightShade12/fa5739c11e3cbbfded269e0d9b4e925d9ed0d951/snake.svg" alt="Snake animation" />
-<hr>
 </div>
