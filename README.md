@@ -1,15 +1,14 @@
 
 <div id="root_div" style="border:2px solid grey; padding:10px; border-radius:10px">
 
-<center>
-<h1>Hi.</h1>
-<h2>I'm <ins>Subham</ins></h2>
-<h3>A student at ITER, SOA university, Bhubaneswar</h3>
-<h3>Nice to meet you</h3>
-</center>
+I am **Subham Swastik Pradhan**, student at **ITER, SOA University, Bhubaneswar**.
 
-<hr>
+## About Me
 
+I am currently pursuing undergraduate studies at ITER, SOA University, Bhubaneswar. I have a passion for <br>
+physically based rendering, software development and video game development.
+
+<h2>Overview:</h2>
 <h4 align="center">Languages and Tools:</h4>
 <div align="center">
   <table>
@@ -49,18 +48,18 @@
 <img align="right" height="150" src="https://giffiles.alphacoders.com/162/162556.gif" alt="steins gate" style="margin:20px" />
 
 <div align="left" style="border:3px solid grey; padding:20px; border-radius:10px">
-<h3><i>Contacts...</i></h3>
-      
+<h3>Contacts:</h3>
   
   <a href="https://discordapp.com/users/_karcer" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  
+  <br>
   <a href="https://www.linkedin.com/in/subham-swastik-pradhan-376a7a2a1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
+<br>
   <img src="https://img.shields.io/static/v1?message=subhamswastikpradhan2005@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
     
 
 </div>
+<hr>
